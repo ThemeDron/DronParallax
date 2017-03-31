@@ -1,0 +1,2 @@
+# DronParallax
+ThemeDron parallax plugin
